@@ -24,7 +24,7 @@ List of required Python modules
 
 ## Example of use
 
-You must have root priviliges to run this script (accessing usb info requires it)
+You must have root privileges to run this script (accessing usb info requires it)
 
     bluesman@diego-workstation:~/workspace/pyusbalarm$ sudo python alarm.py 
     * Exploring devices
